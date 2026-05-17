@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "GTA1-Lhex.aternos.me",
-    "port": 31380,
+    "port": 31380 ,
     "version": "",
     "try-creative": false
   },
